@@ -1,0 +1,1 @@
+{"version":2,"defects":{"CheckoutTest::testPath3_LargePurchase":7},"times":{"CheckoutTest::testPath1_SmallPurchase":0.008,"CheckoutTest::testPath2_MediumPurchase":0.004,"CheckoutTest::testPath3_LargePurchase":0.006}}
